@@ -29,4 +29,29 @@ def funcion_feliz():
   gracias=input()
   print("de nada")
 
+4: 2 ejercicios de repaso examen
+def f(x):("calcula el area del rectangulo")
+print("ingrese el total del area")
+input(3*5)
+print("")
+print("ingresa el perimetro")
+input(10+5)
+
+Mate= float(input("insertar la nota uno"))
+Historia=float(input("insertar la nota dos"))
+Ciencias=float(input("insertar la nota 3"))
+Notafinal=(Mate+Ciencias+Historia)/3
+print(Notafinal)
+
+5:codigo examen parcial
+"""Imc"""
+print("cuanto pesa el pasciente")
+setenta_y_tres_kilos=input()
+print("y cuanto mide")
+ciento_sesenta_y_ocho=input()
+total1=int(73)/int(168)
+print("tu indice de masa corporales",total1)
+gracias=input()
+print("de nada")
+
 
